@@ -13,7 +13,7 @@ Hey Hey,don't be mad at me. Just kidding. I have listed below some advantages of
 
 * You can leverage api to make frontend for api i.e. Online Compiler like this: [Online Compiler](https://mahiragrawal.github.io/Yet-Another-Online-Complier/). Currently as you might have seen my frontend is ugly feel free to fork my repo, make it yours and build a good interface. Additionally you can make login system to that online compiler and a dashboard too. Also github provides free hosting for static pages. So you are good to go.
 
-* By just visiting this page, you might learn the very idea of hosting static pages online for free on github and that would benefit some of you who might be interested to make blogs online. Apne andar ke writer ko writer ko jaga lo. (Google Search "How to host on github for free?")
+* By just visiting this page, you might learn the very idea of hosting static pages online for free on github and that would benefit some of you who might be interested to make blogs online. Apne andar ke writer ko jaga lo. (Google Search "How to host on github for free?")
 
 # Talk is cheap, show me the ~~code~~ api documentation?
 
